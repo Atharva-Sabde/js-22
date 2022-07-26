@@ -1,0 +1,38 @@
+body{
+    background-color: #00163d;
+    background-image: url("https://www.transparenttextures.com/patterns/connected.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+.h1{
+    color: #ffe8cc;
+    margin: 50px;
+}
+.dashboard{
+    margin: 40px;
+    align-items: center;
+}
+
+
+.card{
+    margin-top: 10px;
+    margin-bottom:25px;
+    /* background-color: #ffffff;
+    /* background-image: url("https://www.transparenttextures.com/patterns/crissxcross.png"); */
+    /* background-color: #cceb52; */
+    /* background-image: url("https://www.transparenttextures.com/patterns/diagmonds.png");  */
+    background-color: #ffe8cc;
+    background-image: url("https://www.transparenttextures.com/patterns/diagonal-striped-brick.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+.card-body :hover{
+    /* color: pink;
+    transform: translate3D(0,-1px,0) scale(1.03);
+    color: aqua; */
+
+    /* transform: translateY(-5px) scale(1.005) translateZ(0);
+    box-shadow: 0 24px 36px rgba(0,0,0,0.11),
+    0 24px 46px var(--box-shadow-color);
+    background-color: #7e9a9a; */
+
+    padding: 30px;
+}
